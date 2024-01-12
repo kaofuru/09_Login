@@ -27,6 +27,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['id'])) { //ログインし�
                             <?= $_SESSION['name'] ?></h5>
                         <a href="logout.php" class="btn btn-dark">Logout</a>
                     </div>
+                    <a href="https://jp.freepik.com/icon/team_10039862#fromView=resource_detail&position=15" class="card-body text-center" style="font-size: 10px;">本アイコンの著作権はVectorslabにあります</a>
 
                 </div>
                 <div class="p-3">
